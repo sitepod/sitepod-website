@@ -1,0 +1,14 @@
+baseurl = "https://www.sitepod.io/"
+languageCode = "en-us"
+title = "Sitepod Project Blog"
+keywords = "sitepod, web hosting automation, web hosting control panel, php control panel, php devops, free control panel, kubernetes control panel, docker control panel"
+
+[params]
+  description = "Sitepod project blog, latest informal news, progress, and thoughts as we move towards a better web hosting automation platform"
+  [params.logo]
+    url = "sitepod.png"
+    alt = "Sitepod Project Blog"
+    width = 288
+    height = 66
+
+
